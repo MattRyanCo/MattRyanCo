@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Matt Ryan, aka @MattRyanCo, or [@CapWebSolutions](https://github.com/CapWebSolutions)
-- 👀 I’m primarily a WordPress developer working with PHP, a bit of JavaScript, on Nginx based servers. I use Kadence themes to build most of the custom sites I create for clients. I generally include custom plugin development withj any site for a truly bespoke result. I do dabble a bit with Python. 
+- 👋 Hi, I’m Matt Ryan, aka @MattRyanCo. 
+- 👀 I’m primarily a WordPress developer working with PHP, a bit of JavaScript, on Nginx based servers. I use Kadence themes to build most of the custom sites I create for clients. I generally include custom plugin development with all sites for a truly bespoke result. I do dabble a bit with Python. 
 - 🌱 I’m currently learning more and more about Powershell to use it across all of my development environments. My primary development system is Windows, but in 2024 I repurposed an older Windows Dell laptop as a Ubuntu machine running PopOS. It is a joy to work with a Linux based environemnt again after honing my skills decades ago on Unix mini computers.
-- 💞️ I’m looking to collaborate on any type of new WordPress projects, or ongoing WordPress support and care. 
+- 💞️ I’m looking to collaborate on any type of new WordPress projects, but effective May 1, 2026, I dropped all recurring WordPress support, care and hosting. That portion of my activity was purchased in an asset acquisition of Cap Web Solutions by a 3rd party. 
 
 ---
 <details>
